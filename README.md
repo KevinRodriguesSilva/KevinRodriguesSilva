@@ -1,6 +1,5 @@
 ### Hello there 👋😉
 
-  var nome = "Kevin Rodrigues";
 <!--
 **KevinRodriguesSilva/KevinRodriguesSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
